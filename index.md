@@ -1,6 +1,6 @@
 # Welcome!
 
-My name is Kara and I'm learning to program with R. I am currently a student at **NC State University**! <https://www.ncsu.edu/>
+My name is Kara and I am currently a student at **NC State University**! <https://www.ncsu.edu/>
 
 Follow along and share your best tips! I can be reached at <kbelkna@ncsu.edu>.
 
