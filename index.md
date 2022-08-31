@@ -1,8 +1,9 @@
 # Welcome!
 
-My name is Kara and I am currently a student at **NC State University**! <https://www.ncsu.edu/>
+My name is Kara and I am currently a student at [**NC State University**](https://www.ncsu.edu/)! I can be reached at <kbelkna@ncsu.edu>.
 
-Follow along and share your best tips! I can be reached at <kbelkna@ncsu.edu>.
+
+I am currently taking an R programming class so I will use this space to post assignments and other things from the class. Follow along and share your best tips! 
 
 Here are some of my favorite things. 
 1. Reading
@@ -24,5 +25,3 @@ Here are some of my favorite things.
 #### My favorite trail to walk/bike close to home is the White Oak Creek Greenway.
 
 ![](https://miro.medium.com/max/1400/1*1yzkkbew0jRO0thaEGfZyQ.jpeg)
-
-
