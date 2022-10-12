@@ -1,3 +1,5 @@
+# Project 2 Summary
+
 This week I turned in Project 2, which was a group project this time. The purpose of the assignment was to create a vignette about contacting an API of our choosing from a list of seven options.
 
 One of the hardest parts of this assignment was choosing the API. Some of the APIs had an overwhelming amount of information and some of the APIs had a lot of information that wasn’t going to be easy to use in order to meet the parameters of the assignment. My partner and I decided to go with a “write what you know” strategy and decided to work on the food data API. This API has an enormous amount of information about recipes, grocery costs, and nutritional information. We decided to work with just a small subset of the API and focused on Wine Data. (Again, write what you know.)
