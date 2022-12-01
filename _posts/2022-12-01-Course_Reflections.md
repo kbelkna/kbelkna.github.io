@@ -1,4 +1,4 @@
-##Blog Post #5: Course Reflections
+# Blog Post #5: Course Reflections
 
 The semester is coming to an end and as I reflect on what I will take forward, I find myself a bit amazed at all that I’ve learned in a few short months. When I started the semester, I was cursing R/R Studio. It felt like I couldn’t do anything at all without installing more and more packages. Now I find it very intuitive to use (with the possible exception of R Shiny which I still need more practice with). 
 
